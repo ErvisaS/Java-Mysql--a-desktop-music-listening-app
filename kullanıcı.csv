@@ -1,0 +1,11 @@
+idlogin,username,email,password,abonelik_Türü,ülke,Ödendi
+1,user_1,user_1@ko,1111,Premium,Turkey,1
+2,user_2,user_2@ko,2222,Premium,Austria,1
+3,user_3,user_3@ko,3333,Premium,Germany,1
+4,user_4,user_4@ko,4444,Premium,Macedonia,1
+5,user_5,user_5@ko,5555,Premium,Georgia,1
+6,user_6,user_6@ko,6666,Normal,Norway,0
+7,user_7,user_7@ko,7777,Normal,Turkey,0
+8,user_8,user_8@ko,8888,Normal,Turkey,0
+9,user_9,user_9@ko,9999,Normal,Turkey,0
+10,user_10,user_10@ko,0000,Normal,Turkey,0
